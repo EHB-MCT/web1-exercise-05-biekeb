@@ -1,0 +1,43 @@
+.wrapper {
+    width: 920px;
+    height: 100%;
+    margin: auto;
+}
+
+H1 {
+    color: #147beb;
+    font-size: 250%;
+    font-family: sans-serif;
+}
+
+h3{
+
+    font-family: sans-serif;
+}
+
+.item {
+    position: relative;
+    float: left;
+}
+
+
+p{
+    font-weight: bold;
+    font-size: larger;
+}
+
+.wonderwoman{
+    margin-left: 20px;
+}
+
+.featured{
+    margin-bottom: 50px;
+    position: relative;
+    float: left;
+}
+
+.whos-who{
+    margin-bottom: 100px;
+    position: relative;
+    float: left;
+}
